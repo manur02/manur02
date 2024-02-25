@@ -34,7 +34,7 @@
 □ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b>
  </div><br> <br>
 
-![Leetcode Stats](https://leetcode.com/manur02/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=manur02)](https://github.com/manur02/leetcode-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
 
