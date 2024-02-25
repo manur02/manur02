@@ -29,11 +29,10 @@
   </a>
 </div> <br> 
 <div align="left">
-□ Spoken languages known – <b>English, Hindi, Telugu</b> <br>
 □ Programming Languages – <b>C, C++, Java, Python, SQL</b> <br>
 □ Web Languages – <b>HTML, CSS, SASS, JavaScript, XML, React JS, Node JS</b><br>
-□ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b><br>
- </div>
+□ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b>
+ </div><br> <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
 
