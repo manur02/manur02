@@ -27,13 +27,13 @@
   <a href="https://www.linkedin.com/in/manukonda-renee-suresh-a821291a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
-<div>
+</div> <br> </br>
+<div align="left">
 □ Spoken languages known – **English, Hindi, Telugu**
 □ Programming Languages – **C, C++, Java, Python, SQL**
 □ Web Languages – **HTML, CSS, SASS, JavaScript, XML, React JS, Node JS**
 □ Tools used –  **Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira**
-</div>
+ </div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
 
