@@ -17,7 +17,7 @@
 
  👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years.**
 
- 😄 Pronouns: She/Her 
+ 😄 Pronouns: **She/Her** 
  </div>
 
 <div align="center"> 
