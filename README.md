@@ -12,9 +12,9 @@
  
  🌱 I’m currently learning **NLP, Web Devlopment, and am also exploring ML**
 
- 💻 I am a hard-working professional who loves coding and loves learning new things! In other 
- words, I am always curious 🤯
+ 💻 I am a hard-working professional who **loves coding and loves learning new things!** In other 
+ words, **I am always curious** 🤯
 
- 👩‍💼 I worked as a system engineer at TATA Consultancy Services for about 2 years.
+ 👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years.**
  
  </div>
