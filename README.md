@@ -33,8 +33,6 @@
 □ Web Languages – <b>HTML, CSS, SASS, JavaScript, XML, React JS, Node JS</b><br>
 □ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b>
  </div><br> <br>
- 
-[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/manur02)](https://zeynalmardanli-leetcode-stats.vercel.app/light/lshiroc)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
 
