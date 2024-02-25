@@ -16,7 +16,8 @@
  words, **I am always curious** 🤯
 
  👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years.**
- 
+
+ 😄 Pronouns: She/Her 
  </div>
 
 <div align="center"> 
@@ -27,9 +28,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-- 😄 Pronouns: She/Her 
-
+<div>
+□ Spoken languages known – **English, Hindi, Telugu**
+□ Programming Languages – **C, C++, Java, Python, SQL**
+□ Web Languages – **HTML, CSS, SASS, JavaScript, XML, React JS, Node JS**
+□ Tools used –  **Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira**
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
 
@@ -37,6 +41,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manur02&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/manur02)  
 
 
