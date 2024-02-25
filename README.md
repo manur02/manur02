@@ -27,3 +27,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+- 😄 Pronouns: She/Her 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manur02)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manur02)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manur02&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/manur02)  
+
+
