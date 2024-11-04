@@ -15,7 +15,7 @@
  💻 I am a hard-working professional who **loves coding and learning new things!** In other 
  words, **I am always curious** 🤯
 
- 👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years.**
+ 👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years**
 
  😄 Pronouns: **She/Her** 
  </div>
@@ -30,7 +30,7 @@
 </div> <br> 
 <div align="left">
 □ Programming Languages – <b>C, C++, Java, Python, SQL</b> <br>
-□ Web Languages – <b>HTML, CSS, SASS, JavaScript, XML, React JS, Node JS</b><br>
+□ Web Languages – <b>HTML, CSS, SASS, JavaScript, XML, React JS, Node JS, Django</b><br>
 □ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b>
  </div><br> <br>
 
