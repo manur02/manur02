@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 👩‍💻 I’m currently working on **an NLP Project and also on a Web development project**
+ 👩‍💻 I’m currently working on **learning new technologies and working on multiple projects to sharpen my skills**
  
- 🌱 I’m currently learning **NLP, Web Devlopment, and am also exploring ML**
+ 🌱 I’m currently learning **Human Computer Interaction, Algorithms, Design Analysis & Implementation, and Machine Learning**
 
- 💻 I am a hard-working professional who **loves coding and loves learning new things!** In other 
+ 💻 I am a hard-working professional who **loves coding and learning new things!** In other 
  words, **I am always curious** 🤯
 
  👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years.**
