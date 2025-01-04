@@ -10,7 +10,7 @@
  
  👩‍💻 I’m currently working on **learning new technologies and working on multiple projects to sharpen my skills**
  
- 🌱 I’m currently learning and exploring **advanced technologies in software development**
+ 🌱 Lately, I’ve been exploring **advanced technologies in software development**
 
  💻 I am a hard-working professional who **loves coding and learning new things!** In other 
  words, **I am always curious** 🤯
