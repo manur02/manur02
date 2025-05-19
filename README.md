@@ -14,7 +14,7 @@
 
   💻 I love solving problems, writing clean code, and learning continuously. I’ve solved 250+ problems on LeetCode and developed projects like the Online Banking System and ProFolio.
 
-  👩‍💼 Previously, I worked as a System Engineer at Tata Consultancy Services, where I developed enterprise-scale microservices for 100K+ users.
+  👩‍💼 Previously, I worked as a Software Engineer at Tata Consultancy Services, where I developed enterprise-scale microservices for 100K+ users.
 
   🎓 I hold a Master’s in Computer Science from Purdue University Fort Wayne and a Bachelor's in Computer Engineering from St. Vincent Pallotti College of Engineering and Technology.
 
