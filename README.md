@@ -7,18 +7,20 @@
 <br/>
 
 <div align="center">
- 
- 👩‍💻 I’m currently working on **learning new technologies and working on multiple projects to sharpen my skills**
- 
- 🌱 Lately, I’ve been exploring **advanced technologies in software development**
 
- 💻 I am a hard-working professional who **loves coding and learning new things!** In other 
- words, **I am always curious** 🤯
+  👩‍💻 I’m a passionate Full-Stack Developer with over 3 years of experience, currently open to full-time opportunities starting July 2025.
 
- 👩‍💼 I worked as a **system engineer at TATA Consultancy Services for about 2 years**
+  🌱 I’ve been working with Java, Spring Boot, React, and Microservices, and exploring advanced technologies to build scalable, secure applications.
 
- 😄 Pronouns: **She/Her** 
- </div>
+  💻 I love solving problems, writing clean code, and learning continuously. I’ve solved 250+ problems on LeetCode and developed projects like the Online Banking System and ProFolio.
+
+  👩‍💼 Previously, I worked as a System Engineer at Tata Consultancy Services, where I developed enterprise-scale microservices for 100K+ users.
+
+  🎓 I hold a Master’s in Computer Science from Purdue University Fort Wayne and a Bachelor's in Computer Engineering from St. Vincent Pallotti College of Engineering and Technology.
+
+  😄 Pronouns: <strong>She/Her</strong>
+
+</div>
 
 <div align="center"> 
   <a href="mailto:reneesuresh99@gmail.com">
