@@ -31,10 +31,15 @@
   </a>
 </div> <br> 
 <div align="left">
-□ Programming Languages – <b>C, C++, Java, Python, SQL</b> <br>
-□ Web Languages – <b>HTML, CSS, SASS, JavaScript, XML, React JS, Node JS, Django</b><br>
-□ Tools used –  <b>Microsoft Office, NetBeans, Visual Studio, Android Studio, Ui Path, Spyder, Jupyter, MySQL Workbench, PL/SQL Developer, GitHub, Figma, Cypress, Jira</b>
- </div><br> <br>
+☑️ <b>Programming Languages:</b> Java, Python, C, C++, SQL, JavaScript<br>
+☑️ <b>Web Technologies:</b> HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, React.js, Node.js, Django, Thymeleaf, XML<br>
+☑️ <b>Frameworks & Tools:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2<br>
+☑️ <b>Databases:</b> MySQL, MongoDB, Oracle, NoSQL, Redis<br>
+☑️ <b>DevOps & Cloud:</b> Docker, Kubernetes, AWS, Git, GitHub<br>
+☑️ <b>Testing & CI/CD:</b> JUnit, Postman, Cypress<br>
+☑️ <b>Development Tools:</b> IntelliJ IDEA, Visual Studio, Android Studio, Eclipse, UiPath, Jupyter, MySQL Workbench, SQL Developer, Figma, Jira, Microsoft Office
+</div><br><br>
+
 
 
 
