@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  👩‍💻 I’m a passionate Full-Stack Developer with over 3 years of experience, actively seeking full-time opportunities starting July 2025.
+  👩‍💻 I’m a passionate Full-Stack Developer with 2+ years of experience, actively seeking full-time opportunities starting July 2025.
 
   🌱 I specialize in Java, Spring Boot, React, Microservices, and cloud-native technologies, building scalable and secure applications that solve real-world problems.
 
