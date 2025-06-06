@@ -2,21 +2,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Renee+Suresh+Manukonda!;" />
 </h1>
 
-<h3 align="center"> 🎓 I am a Graduate Student pursuing my Master's degree in Computer Science at Purdue University</h3>
+<h3 align="center">🎓 I recently graduated with a Master’s degree in Computer Science from Purdue University Fort Wayne</h3>
 
 <br/>
 
 <div align="center">
 
-  👩‍💻 I’m a passionate Full-Stack Developer with over 3 years of experience, currently open to full-time opportunities starting July 2025.
+  👩‍💻 I’m a passionate Full-Stack Developer with over 3 years of experience, actively seeking full-time opportunities starting July 2025.
 
-  🌱 I’ve been working with Java, Spring Boot, React, and Microservices, and exploring advanced technologies to build scalable, secure applications.
+  🌱 I specialize in Java, Spring Boot, React, Microservices, and cloud-native technologies, building scalable and secure applications that solve real-world problems.
 
-  💻 I love solving problems, writing clean code, and learning continuously. I’ve solved 250+ problems on LeetCode and developed projects like the Online Banking System and ProFolio.
+  💻 I enjoy solving challenging problems, writing clean code, and continuously learning. I’ve solved 250+ problems on LeetCode and developed projects like an Online Banking System, Running Tracker App, and ProFolio.
 
-  👩‍💼 Previously, I worked as a Software Engineer at Tata Consultancy Services, where I developed enterprise-scale microservices for 100K+ users.
+  👩‍💼 Previously, I worked as a Software Engineer at Tata Consultancy Services, designing and developing microservices for 100K+ users in banking and insurance domains.
 
-  🎓 I hold a Master’s in Computer Science from Purdue University Fort Wayne and a Bachelor's in Computer Engineering from St. Vincent Pallotti College of Engineering and Technology.
+  🎓 I hold a Bachelor’s degree in Computer Engineering from St. Vincent Pallotti College of Engineering and Technology.
 
   😄 Pronouns: <strong>She/Her</strong>
 
@@ -27,20 +27,15 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/manukonda-renee-suresh-a821291a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div> <br> 
+
 <div align="left">
-☑️ <b>Programming Languages:</b> Java, Python, C, C++, SQL, JavaScript<br>
-☑️ <b>Web Technologies:</b> HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, React.js, Node.js, Django, Thymeleaf, XML<br>
-☑️ <b>Frameworks & Tools:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2<br>
+☑️ <b>Programming Languages:</b> Java, Python, C, SQL, JavaScript<br>
+☑️ <b>Technologies & Frameworks:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2, React.js, Django, REST API, Bootstrap, jQuery, Thymeleaf, HTML, CSS, SASS, XML<br>
 ☑️ <b>Databases:</b> MySQL, MongoDB, Oracle, NoSQL, Redis<br>
-☑️ <b>DevOps & Cloud:</b> Docker, Kubernetes, AWS, Git, GitHub<br>
-☑️ <b>Testing & CI/CD:</b> JUnit, Postman, Cypress<br>
-☑️ <b>Development Tools:</b> IntelliJ IDEA, Visual Studio, Android Studio, Eclipse, UiPath, Jupyter, MySQL Workbench, SQL Developer, Figma, Jira, Microsoft Office
-</div><br><br>
-
-
-
-
-
+☑️ <b>Cloud & DevOps:</b> Docker, Kubernetes, AWS, Git, GitHub, CI/CD Pipelines<br>
+☑️ <b>Testing & Agile Tools:</b> JUnit, Postman, Jira, Agile & Scrum Methodologies<br>
+☑️ <b>Development Tools & Design:</b> IntelliJ IDEA, Eclipse, MySQL Workbench, SQL Developer, Figma, UI/UX Design, Incident Resolution
+</div>
