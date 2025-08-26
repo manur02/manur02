@@ -12,7 +12,7 @@
 
   🌱 I specialize in Java, Spring Boot, React, Microservices, and cloud-native technologies, building scalable and secure applications that solve real-world problems.
 
-  💻 I enjoy solving challenging problems, writing clean code, and continuously learning. I’ve solved 250+ problems on LeetCode and developed projects like an Online Banking System, Running Tracker App, and ProFolio.
+  💻 I enjoy solving challenging problems, writing clean code, and continuously learning. I’ve solved 300+ problems on LeetCode and developed projects like an Online Banking System, Running Tracker App, and ProFolio.
 
   👩‍💼 Previously, I worked as a Software Engineer at Tata Consultancy Services, designing and developing microservices for 100K+ users in banking and insurance domains.
 
