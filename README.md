@@ -39,3 +39,6 @@
 ☑️ <b>Testing & Agile Tools:</b> JUnit, Postman, Jira, Agile & Scrum Methodologies<br>
 ☑️ <b>Development Tools & Design:</b> IntelliJ IDEA, Eclipse, MySQL Workbench, SQL Developer, Figma, UI/UX Design, Incident Resolution
 </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap)
+
