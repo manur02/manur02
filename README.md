@@ -50,11 +50,10 @@
 
 ---
 
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://manur02.github.io/)  
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://manur02.github.io/)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap)
-</div>
+
 
 <br>
 
