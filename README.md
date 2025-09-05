@@ -40,7 +40,11 @@
 ☑️ <b>Development Tools & Design:</b> IntelliJ IDEA, Eclipse, MySQL Workbench, SQL Developer, Figma, UI/UX Design, Incident Resolution
 </div>
 
-<br>
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://manur02.github.io/)
+
+<br><br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap)
 
