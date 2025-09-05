@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Renee+Suresh+Manukonda!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hi+There!+👋;+I'm+Renee+Suresh+Manukonda!" />
 </h1>
 
 <h3 align="center">🎓 Master's in Computer Science from Purdue University | Actively Seeking Full-Time Opportunities</h3>
@@ -37,6 +37,8 @@
 
 ---
 
+<h2>🛠 Skills & Tools</h2>
+
 <div align="left">
 ☑️ <b>Programming Languages:</b> Java, Python, C, SQL, JavaScript<br>
 ☑️ <b>Technologies & Frameworks:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2, React.js, Django, REST API, Bootstrap, jQuery, Thymeleaf, HTML, CSS, SASS, XML<br>
@@ -50,10 +52,23 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://manur02.github.io/)
+<h2>🌐 Portfolio</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap)
+<div align="center">
+  <a href="https://manur02.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</div>
 
+<br>
+
+---
+
+<h2>📊 LeetCode Stats</h2>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap&height=120" alt="LeetCode Stats"/>
+</div>
 
 <br>
 
