@@ -45,7 +45,7 @@
 ☑️ <b>Databases:</b> MySQL, MongoDB, Oracle, NoSQL, Redis<br>
 ☑️ <b>Cloud & DevOps:</b> Docker, Kubernetes, AWS, Git, GitHub, CI/CD Pipelines<br>
 ☑️ <b>Testing & Agile Tools:</b> JUnit, Postman, Jira, Agile & Scrum Methodologies<br>
-☑️ <b>Development Tools & Design:</b> IntelliJ IDEA, Eclipse, MySQL Workbench, SQL Developer, Figma, UI/UX Design, Incident Resolution
+☑️ <b>Fundamentals:</b> Data Structures & Algorithms, Design Principles, System Design, Performance Optimization
 </div>
 
 <br>
