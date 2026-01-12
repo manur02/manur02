@@ -36,8 +36,6 @@
 
 <br>
 
----
-
 <h2>🛠 Skills & Tools</h2>
 
 <div align="left">
@@ -57,7 +55,6 @@
 </div>
 
 <br>
----
 
 <h2>🌐 Portfolio</h2>
 
@@ -69,7 +66,6 @@
 
 <br>
 
----
 
 <div align="center">
 🌟 <b>Currently:</b> Seeking full-time Software Engineer opportunities | Upskilling | Building scalable backend systems
