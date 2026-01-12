@@ -15,7 +15,7 @@
 
 🏢 Currently a **Software Engineer Intern at Neighbors House (USA)**, designing and developing an **end-to-end automation platform** syncing customer and donation data between **Planning Center and QuickBooks (Intuit)**, reducing operational costs by **80%**.  
 
-👩‍💼 Former **Software Engineer at Tata Consultancy Services (TCS)**, designing and developing **enterprise-grade Spring Boot microservices** for large-scale **banking and insurance systems**.  
+👩‍💼 Former **Software Engineer at Tata Consultancy Services (TCS)**, designed and developed **enterprise-grade Spring Boot microservices** for large-scale **banking and insurance systems**.  
 
 🌱 Actively upskilling, strengthening **Data Structures & Algorithms**, system design, and backend architecture.  
 
