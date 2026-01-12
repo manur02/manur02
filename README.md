@@ -2,21 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hi+There!+👋;+I'm+Renee+Suresh+Manukonda!" />
 </h1>
 
-<h3 align="center">🎓 Master's in Computer Science from Purdue University | Actively Seeking Full-Time Opportunities</h3>
+<h3 align="center">
+🎓 MS in Computer Science @ Purdue University Fort Wayne (GPA: 3.90/4.00) <br/>
+💼 Software Engineer | Full-Stack & Backend Developer | Open to Full-Time Roles
+</h3>
 
 <br/>
 
 <div align="center">
 
-👩‍💻 Passionate Full-Stack Developer with 3+ years of experience building scalable and secure applications using Java, Spring Boot, React, Microservices, and cloud-native technologies.  
+👩‍💻 Passionate **Software Engineer with 3+ years of professional experience** building scalable and secure applications using **Java, Spring Boot, Microservices, Kafka, React, and cloud-native technologies**.  
 
-🌱 Currently upskilling, exploring new technologies, and solving challenging problems on LeetCode (300+ problems solved).  
+🏢 Currently a **Software Engineer Intern at Neighbors House (USA)**, designing and developing an **end-to-end automation platform** syncing customer and donation data between **Planning Center and QuickBooks (Intuit)**, reducing operational costs by **80%**.  
 
-💻 Developed projects like an Online Banking System, Running Tracker App, and ProFolio (Portfolio Builder).  
+👩‍💼 Former **Software Engineer at Tata Consultancy Services (TCS)**, designing and developing **enterprise-grade Spring Boot microservices** for large-scale **banking and insurance systems**.  
 
-👩‍💼 Former Software Engineer at Tata Consultancy Services, designing and developing microservices for 100K+ users in banking and insurance domains.  
-
-🎓 Bachelor’s in Computer Engineering from St. Vincent Pallotti College of Engineering and Technology.  
+🌱 Actively upskilling, strengthening **Data Structures & Algorithms**, system design, and backend architecture.  
 
 😄 Pronouns: <strong>She/Her</strong>
 
@@ -41,10 +42,10 @@
 
 <div align="left">
 ☑️ <b>Programming Languages:</b> Java, Python, C, SQL, JavaScript<br>
-☑️ <b>Technologies & Frameworks:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2, React.js, Django, REST API, Bootstrap, jQuery, Thymeleaf, HTML, CSS, SASS, XML<br>
+☑️ <b>Technologies & Frameworks:</b> Spring, Spring Boot, JPA, Hibernate, Microservices, Apache Kafka, JWT, OAuth2, React.js, Django, Flask, REST APIs, Bootstrap, jQuery, Thymeleaf, HTML, CSS, SASS, XML<br>
 ☑️ <b>Databases:</b> MySQL, MongoDB, Oracle, NoSQL, Redis<br>
-☑️ <b>Cloud & DevOps:</b> Docker, Kubernetes, AWS, Git, GitHub, CI/CD Pipelines<br>
-☑️ <b>Testing & Agile Tools:</b> JUnit, Postman, Jira, Agile & Scrum Methodologies<br>
+☑️ <b>Cloud & DevOps:</b> AWS (EC2, S3, RDS), Docker, Kubernetes, Git, GitHub, CI/CD Pipelines<br>
+☑️ <b>Testing & Agile Tools:</b> JUnit, Mockito, Postman, Jira, Agile & Scrum Methodologies<br>
 ☑️ <b>Fundamentals:</b> Data Structures & Algorithms, Design Principles, System Design, Performance Optimization
 </div>
 
@@ -64,16 +65,6 @@
 
 ---
 
-<h2>📊 LeetCode Stats</h2>
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap&height=120" alt="LeetCode Stats"/>
-</div>
-
-<br>
-
----
-
-<div align="center">
-🌟 <b>Currently:</b> Looking for full-time opportunities | Upskilling | Leetcoding daily
+🌟 <b>Currently:</b> Seeking full-time Software Engineer opportunities | Upskilling | Building scalable backend systems
 </div>
