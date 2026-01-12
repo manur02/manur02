@@ -50,7 +50,13 @@
 </div>
 
 <br>
+<h2>📊 LeetCode Stats</h2>
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manur02?theme=dark&font=Karma&ext=heatmap&height=120" alt="LeetCode Stats"/>
+</div>
+
+<br>
 ---
 
 <h2>🌐 Portfolio</h2>
